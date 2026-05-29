@@ -1,4 +1,4 @@
-using EmailReportGenerator.Email_Generator.Enums;
+using Email_Generator.Enums;
 
 namespace Email_Generator.Models;
 

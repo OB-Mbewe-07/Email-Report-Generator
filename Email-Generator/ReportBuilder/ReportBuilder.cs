@@ -1,7 +1,7 @@
 using Email_Generator.Models;
-using EmailReportGenerator.Email_Generator.Enums;
+using Email_Generator.Enums;
 
-namespace EmailReportGenerator.Email_Generator.ReportBuilder;
+namespace Email_Generator.ReportBuilder;
 
 public class ReportBuilder
 {
@@ -29,7 +29,7 @@ public class ReportBuilder
         return this;
     }
 
-    private ReportBuilder AddSection(string title, string body)
+    public ReportBuilder AddSection(string title, string body)
     {
         _sections.Add(new ReportSection(title, body));
         return this;

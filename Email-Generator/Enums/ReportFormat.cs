@@ -1,4 +1,4 @@
-namespace EmailReportGenerator.Email_Generator.Enums;
+namespace Email_Generator.Enums;
 
 public enum ReportFormat
 {
