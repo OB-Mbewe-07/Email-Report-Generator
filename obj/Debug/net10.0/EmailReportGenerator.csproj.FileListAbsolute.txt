@@ -1,0 +1,15 @@
+/Users/oarabilembewe/Downloads/EmailReportGenerator/bin/Debug/net10.0/EmailReportGenerator
+/Users/oarabilembewe/Downloads/EmailReportGenerator/bin/Debug/net10.0/EmailReportGenerator.deps.json
+/Users/oarabilembewe/Downloads/EmailReportGenerator/bin/Debug/net10.0/EmailReportGenerator.runtimeconfig.json
+/Users/oarabilembewe/Downloads/EmailReportGenerator/bin/Debug/net10.0/EmailReportGenerator.dll
+/Users/oarabilembewe/Downloads/EmailReportGenerator/bin/Debug/net10.0/EmailReportGenerator.pdb
+/Users/oarabilembewe/Downloads/EmailReportGenerator/obj/Debug/net10.0/EmailReportGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oarabilembewe/Downloads/EmailReportGenerator/obj/Debug/net10.0/EmailReportGenerator.AssemblyInfoInputs.cache
+/Users/oarabilembewe/Downloads/EmailReportGenerator/obj/Debug/net10.0/EmailReportGenerator.AssemblyInfo.cs
+/Users/oarabilembewe/Downloads/EmailReportGenerator/obj/Debug/net10.0/EmailReportGenerator.csproj.CoreCompileInputs.cache
+/Users/oarabilembewe/Downloads/EmailReportGenerator/obj/Debug/net10.0/EmailReportGenerator.sourcelink.json
+/Users/oarabilembewe/Downloads/EmailReportGenerator/obj/Debug/net10.0/EmailReportGenerator.dll
+/Users/oarabilembewe/Downloads/EmailReportGenerator/obj/Debug/net10.0/refint/EmailReportGenerator.dll
+/Users/oarabilembewe/Downloads/EmailReportGenerator/obj/Debug/net10.0/EmailReportGenerator.pdb
+/Users/oarabilembewe/Downloads/EmailReportGenerator/obj/Debug/net10.0/EmailReportGenerator.genruntimeconfig.cache
+/Users/oarabilembewe/Downloads/EmailReportGenerator/obj/Debug/net10.0/ref/EmailReportGenerator.dll
