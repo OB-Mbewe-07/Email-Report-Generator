@@ -19,5 +19,17 @@ logger.Log("Application started. Preparing to send monthly reports...");
 
 try
 {
-    await reportingServices.SendMonthlyReportAsyc(email :)
+    await reportingServices.SendMonthlyReportAsync(
+        email: "executive@company.com",
+        name: "Alex Rivera",
+        salesData: monthlySales
+    );
+
+    Console.WriteLine("Process finished successfully");
 }
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
+
+logger.Log("Application shutting down");
