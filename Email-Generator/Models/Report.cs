@@ -8,6 +8,5 @@ public record Report(
     string Subject,
     List<ReportSection> Sections,
     ReportFormat Format,
-    DateTime GeneratedAt,
     string? Footer = null
 );
